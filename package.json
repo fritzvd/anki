@@ -19,7 +19,7 @@
   "license": "ISC",
   "dependencies": {
     "sql.js": "^0.4.0",
-    "tap-spec": "^4.1.1",
+    "tap-spec": "^5.0.0",
     "tape": "^4.8.0",
     "zip": "^1.2.0"
   }
